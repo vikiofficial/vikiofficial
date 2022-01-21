@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikiofficial&label=Profile%20views&color=0e75b6&style=flat" alt="vikiofficial" /> </p>
 
-- 📝 I regularly write articles on [Medium, Analytics Vidhya](Medium, Analytics Vidhya)
+- 📝 I regularly write articles on Medium, Analytics Vidhya
 
 - 📫 How to reach me **kumarvikram18302@gmail.com**
 
