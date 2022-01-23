@@ -28,7 +28,6 @@
 ### Quick stats about me
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikiofficial&show_icons=true&locale=en&layout=compact" alt="vikiofficial" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikiofficial&show_icons=true&locale=en" alt="vikiofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikiofficial&" alt="vikiofficial" /></p>
